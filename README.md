@@ -46,4 +46,5 @@ Male subscribers are the most frequent customers ---this is the key demographic 
 
 ![User_Trips_By_Gender_by_Weekday](https://user-images.githubusercontent.com/98564776/167278743-9227ebdd-a0a9-4d4d-88ec-74a81532ed13.PNG)
 
+Two more suggestions for analysis: Average age of rider, Average length of subscription
 
