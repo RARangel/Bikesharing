@@ -16,10 +16,33 @@ The objective of this challenge is to convince investors that a bike-sharing pro
 
 ### Tableau link
 
-
+[link to dashboard](LINK GOES HERE)
 
 ### Results and Analysis
 
 This analysis is from the NYC Citibike Bikeshare.  The average customer is overwhelmingly male, although there are plenty of female riders:
+
+![Gender Breakdown](https://user-images.githubusercontent.com/98564776/167278681-90de1d71-5f20-4280-aea6-311bb9108cd4.PNG)
+
+Most ridership happens within Manhattan:
+
+![Top_Starting_Locations](https://user-images.githubusercontent.com/98564776/167278688-1b734e11-5e8b-469d-a3ed-899d7545ee45.PNG)
+
+Most riders checkout times last for an hour:
+![Checkout_Times_for_Users](https://user-images.githubusercontent.com/98564776/167278704-5f0b18b5-878f-44b9-b093-5a52747f5b6d.PNG)
+
+![Checkout_Times_by_Gender](https://user-images.githubusercontent.com/98564776/167279006-74ddd69f-04e7-4346-a59e-a69167562a8f.PNG)
+
+
+Peak times for ridership are early morning hours (6-9 AM) and late evening hours  (5PM-8PM). Weekends are also popular after 9 AM.
+
+![Trips_by_Weekday_for_Each_Hour](https://user-images.githubusercontent.com/98564776/167278719-f5791174-6ad7-4195-b992-c4e5bd24f081.PNG)
+
+
+![Trips_by_Gender_by_Weekday_Hour](https://user-images.githubusercontent.com/98564776/167278724-c15483fa-355b-4580-b644-4e266816f7b1.PNG)
+
+Male subscribers are the most frequent customers ---this is the key demographic to target for advertising:
+
+![User_Trips_By_Gender_by_Weekday](https://user-images.githubusercontent.com/98564776/167278743-9227ebdd-a0a9-4d4d-88ec-74a81532ed13.PNG)
 
 
