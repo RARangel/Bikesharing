@@ -10,7 +10,7 @@ The objective of this challenge is to convince investors that a bike-sharing pro
 
 ### Deliverables
 
-- Deliverable 1: Change Trip Duration to a Datetime Format: Jupyter Notebook File
+- Deliverable 1: Change Trip Duration to a Datetime Format: [Jupyter Notebook File](NYC_Citibike_Challenge.ipynb)
 - Deliverable 2: Create Visualizations for the Trip Analysis: Included in this README file
 - Deliverable 3: Create a Story and Report for the Final Presentation: Provided in the Tableau Link
 
@@ -36,10 +36,9 @@ Most riders checkout times last for an hour:
 
 Peak times for ridership are early morning hours (6-9 AM) and late evening hours  (5PM-8PM). Weekends are also popular after 9 AM.
 
-![Trips_by_Weekday_for_Each_Hour](https://user-images.githubusercontent.com/98564776/167278719-f5791174-6ad7-4195-b992-c4e5bd24f081.PNG)
+![Trips_by_Weekday_for_Each_Hour](https://user-images.githubusercontent.com/98564776/167279078-d4844983-e352-4f38-99cb-774a5b535641.PNG)
 
-
-![Trips_by_Gender_by_Weekday_Hour](https://user-images.githubusercontent.com/98564776/167278724-c15483fa-355b-4580-b644-4e266816f7b1.PNG)
+![Trips_by_Gender_by_Weekday_Hour](https://user-images.githubusercontent.com/98564776/167279080-1f893d4e-4404-403d-b911-cc727eb4bf47.PNG)
 
 Male subscribers are the most frequent customers ---this is the key demographic to target for advertising:
 
