@@ -14,9 +14,11 @@ The objective of this challenge is to convince investors that a bike-sharing pro
 - Deliverable 2: Create Visualizations for the Trip Analysis: Included in this README file
 - Deliverable 3: Create a Story and Report for the Final Presentation: Provided in the Tableau Link
 
-### Tableau link
+### Tableau links
 
-[link to dashboard](LINK GOES HERE)
+[link to dashboard](https://public.tableau.com/views/RR_Bikeshare_Dashboard_050722/Dashboard?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+
+[link to story](https://public.tableau.com/shared/9KXTWDQNJ?:display_count=n&:origin=viz_share_link)
 
 ### Results and Analysis
 
